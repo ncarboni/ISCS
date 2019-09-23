@@ -9,6 +9,9 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>.
 @prefix void: <http://rdfs.org/ns/void#>.
 
+
+
+
 :crackDeformation a skos:Concept;
            skos:topConceptOf :scheme;
            skos:inScheme :scheme;
@@ -335,7 +338,7 @@
            skos:prefLabel "Loss of components"@en;
            skos:prefLabel "Perte de constituants"@fr;
            skos:broader :differentialErosion;
-           skos:definition "Partial or selective elimination of soft or compact stone components "@en;
+           skos:definition "Partial or selective elimination of soft or compact stone components"@en;
            skos:definition "Correspond à l’élimination sélective de constituants plus tendres ou plus compacts."@en;
            skos:example "lentilles d’argile, nodules de limonite, galets, fragments de fossiles, concrétions"@fr;
            skos:example "clay lenticles, nodes of limonite, pebbles, fossil fragments, geological concretions, lava fragments"@en.
@@ -794,3 +797,13 @@
     dct:modified "2017-05-26T18:05:51+00:00"
 ];
            skos:definition "Human perception of the loss of value due to decay."@en.
+
+
+:scheme a skos:ConceptScheme ;
+rdfs:label "Concept scheme for the ISCS glossary";
+skos:hasTopConcept :bioColonization,
+        :crackDeformation,
+        :detachment,
+        :discolorationDeposit,
+        :featuresInducedMaterialLoss,
+        :generalTerms .
