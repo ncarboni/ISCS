@@ -1,0 +1,778 @@
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crack & Deformation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissure & D\u00E9formation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#crack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#deformation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid1 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid2 .
+_:genid1 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid1 <http://purl.org/dc/terms/modified> "2017-05-24T10:06:07+00:00" .
+_:genid2 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid2 <http://purl.org/dc/terms/modified> "2017-05-24T15:59:54+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crack"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Fissure"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Fault"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Joint"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Raquelure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "f\u00EAlure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Fente"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Fendage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Faille"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#altLabel> "Diaclase"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#fracture> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#craquele> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#splitting> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid3 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#definition> "Individual fissure, clearly visible by the naked eye, resulting from separation of one part from another."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crack> <http://www.w3.org/2004/02/skos/core#definition> "Une fissure est un plan de rupture vu en coupe qui r\u00C3\u00A9sulte de la s\u00C3\u00A9paration d\u00E2\u0080\u0099une pierre en deux parties."@fr .
+_:genid3 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid3 <http://purl.org/dc/terms/modified> "2017-05-24T16:00:20+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fracture"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fracture"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/2004/02/skos/core#definition> "Crack that crosses completely the stone piece"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fracture> <http://www.w3.org/2004/02/skos/core#definition> "Fissure traversant compl\u00E8tement une pierre."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#prefLabel> "Craquele"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#prefLabel> "Craquellement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#altLabel> "crack network"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid4 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#definition> "Network of minor cracks also called crack network . The term crazing is not appropriate for stone, as this term should be used for describing the development of a crack network on glazed terracotta."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#craquele> <http://www.w3.org/2004/02/skos/core#definition> "R\u00C3\u00A9seau de fissures peu ouvertes. Le terme fa\u00C3\u00AFen\u00C3\u00A7age n\u00E2\u0080\u0099est pas appropri\u00C3\u00A9 pour la pierre : il d\u00C3\u00A9crit un r\u00C3\u00A9seau de fissures affectant un \u00C3\u00A9mail, un enduit."@en .
+_:genid4 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid4 <http://purl.org/dc/terms/modified> "2017-05-24T16:09:41+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hair crack"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microfissure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid5 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#definition> "Minor crack with width dimension < 0.1 mm"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#hairCrack> <http://www.w3.org/2004/02/skos/core#definition> "Fissure d\u00E2\u0080\u0099ouverture inf\u00C3\u00A9rieure \u00C3\u00A0 0,1 mm."@fr .
+_:genid5 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid5 <http://purl.org/dc/terms/modified> "2017-05-24T16:10:01+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Splitting"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clivage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid6 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#definition> "Fracturing of a stone along planes of weakness such as microcracks or clay/silt layers, in case where the structural elements are orientated vertically. For instance, a column may split into several parts along bedding planes if the load above it is too high."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splitting> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9crit le d\u00C3\u00A9veloppement d\u00E2\u0080\u0099une cassure le long de plans de faiblesse tels que microfissures, couches argileuses, dans le cas o\u00C3\u00B9 ces \u00C3\u00A9l\u00C3\u00A9ments structuraux sont orient\u00C3\u00A9s verticalement. Une pierre pos\u00C3\u00A9e en d\u00C3\u00A9lit, par exemple une colonne, peut se cliver le long des plans de litage si la charge qu\u00E2\u0080\u0099elle supporte est trop importante."@en .
+_:genid6 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid6 <http://purl.org/dc/terms/modified> "2017-05-24T16:10:31+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Star crack"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fissuration en \u00E8toile"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crack> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid7 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#definition> "Crack having the form of a star. Rusting iron or mechanical impact are possible causes of this type of damage."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#starCrack> <http://www.w3.org/2004/02/skos/core#definition> "Ensemble de fissures se d\u00C3\u00A9veloppant de fa\u00C3\u00A7on rayonnante. La corrosion d\u00E2\u0080\u0099\u00C3\u00A9l\u00C3\u00A9ments m\u00C3\u00A9talliques, l\u00E2\u0080\u0099impact de projectiles sont des causes possibles de fissuration en \u00C3\u00A9toile."@fr .
+_:genid7 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid7 <http://purl.org/dc/terms/modified> "2017-05-24T16:11:26+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deformation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9formation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#altLabel> "Plastic deformation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#altLabel> "bowing"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#altLabel> "D\u00E9formation plastique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#altLabel> "distorsion"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#altLabel> "gauchissement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#definition> "Change in shape without loosing integrity, leading to bending, buckling or twisting of a stone block."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deformation> <http://www.w3.org/2004/02/skos/core#definition> "Changement de forme conduisant \u00C3\u00A0 la courbure (convexe ou concave), au bombement ou \u00C3\u00A0 la torsion d\u00E2\u0080\u0099une pierre."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detachment"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9tachement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#blistering> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#bursting> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#delamination> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#peeling> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#detachment> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#scaling> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blistering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boursouflure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#altLabel> "Cloque"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#definition> "Separated, air-filled, raised hemispherical elevations on the face of stone resulting from the detachment of an outer stone layer. This detachment is not related to the stone structure"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blistering> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9tachement d\u00E2\u0080\u0099une couche superficielle de la pierre sous forme d\u00E2\u0080\u0099un bombement creux plus ou moins fissur\u00C3\u00A9, et de forme sub-h\u00C3\u00A9misph\u00C3\u00A9rique. Ce d\u00C3\u00A9tachement est ind\u00C3\u00A9pendant de la structure interne de la pierre."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bursting"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eclatement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#altLabel> "Break out"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#definition> "Local loss of the stone surface from internal pressure usually manifesting in the form of an irregularly-sided crater."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bursting> <http://www.w3.org/2004/02/skos/core#definition> "Perte locale de mati\u00C3\u00A8re en surface de la pierre, due \u00C3\u00A0 des pressions internes, se manifestant habituellement sous la forme d\u00E2\u0080\u0099un crat\u00C3\u00A8re \u00C3\u00A0 bords irr\u00C3\u00A9guliers"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delamination"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9litage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#altLabel> "Layering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#altLabel> "D\u00E9lamination"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#altLabel> "d\u00E9litement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#definition> "Detachment process affecting laminated stones (most of sedimentary rocks, some metamorphic rocks...). It corresponds to a physical separation into one or several layers following the stone laminae. The thickness and the shape of the layers are variable. The layers may be oriented in any direction with regards to the stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#delamination> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9tachement selon une orientation pr\u00C3\u00A9existante conduisant \u00C3\u00A0 la dissociation d\u00E2\u0080\u0099une ou quelques couches (lamines). Il affecte les pierres pr\u00C3\u00A9sentant un litage (pierres d\u00E2\u0080\u0099origine s\u00C3\u00A9dimentaire) ou des plans de schistosit\u00C3\u00A9 (pierres d\u00E2\u0080\u0099origine m\u00C3\u00A9tamorphique). L\u00E2\u0080\u0099\u00C3\u00A9paisseur et la forme des couches sont variables."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exfoliation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exfoliation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#delamination> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/2004/02/skos/core#definition> "Detachment of multiple thin stone layers (cm scale) that are sub-parallel to the stone surface. The layers may bend, twist in a similar way as book pages."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#exfoliation> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9tachement de multiples couches, subparall\u00C3\u00A8les \u00C3\u00A0 la surface de la pierre. Quand les couches d\u00C3\u00A9tach\u00C3\u00A9es sont fines (\u00C3\u00A9paisseur centim\u00C3\u00A9trique), elles peuvent pr\u00C3\u00A9senter des plis, des torsions, de la m\u00C3\u00AAme fa\u00C3\u00A7on que les pages gaufr\u00C3\u00A9es d\u00E2\u0080\u0099un livre."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disintegration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9sagr\u00E9gation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "Loss of cohesion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "incoherence"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "decohesion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "friability"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "disaggregation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "intergranular incoherence"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "pulverization"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "D\u00E9coh\u00E9sion"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "perte de coh\u00E9sion"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#altLabel> "pulv\u00E9risation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#definition> "It affects only the surface of the stone or can occur in depth. Damage generally starts from the surface of the material. On crystalline marble, granular disintegration may reach several centimeters in depth, sometimes more."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> <http://www.w3.org/2004/02/skos/core#definition> "La d\u00E9sagr\u00E9gation peut affecter la pierre en surface et/ou en profondeur. La d\u00E9gradation commence g\u00E9n\u00E9ralement en surface. Dans le cas des marbres, elle peut atteindre plusieurs centim\u00E8tres en profondeur, parfois plus."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crumbling"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emiettement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#altLabel> "effritement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid8 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#definition> "Detachment of aggregates of grains from the substrate. These aggregates are generally limited in size (less than 2 cm). This size depends of the nature of the stone and its environment."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crumbling> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9tachement d\u00E2\u0080\u0099agr\u00C3\u00A9gats de grains de pierre. Ces agr\u00C3\u00A9gats ont une taille g\u00C3\u00A9n\u00C3\u00A9ralement inf\u00C3\u00A9rieure \u00C3\u00A0 2 cm, li\u00C3\u00A9e \u00C3\u00A0 la nature et \u00C3\u00A0 l\u00E2\u0080\u0099environnement de la pierre."@en .
+_:genid8 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid8 <http://purl.org/dc/terms/modified> "2017-05-26T10:28:29+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Granular disintegration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9sagr\u00E9gation granulaire"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#disintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#powdering> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#sanding> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#definition> "Occurs in granular sedimentary (e.g. sandstone) and granular crystalline (e.g. granite) stones. Granular disintegration produces debris referred to as a rock meal and can often be seen accumulating at the foot of wall actively deteriorating. If the stone surface forms a cavity (coving), the detached material may accumulate through gravity on the lower part of the cavity. The grain size of the stone determines the size of the resulting detached material. The following specific terms, all related to granular disintegration, refer either to the size, or to the aspect of corresponding grains :"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> <http://www.w3.org/2004/02/skos/core#definition> "Se d\u00C3\u00A9veloppe sur les roches granulaires (ex. gr\u00C3\u00A8s) ou \u00C3\u00A0 texture grenue (ex. granites). Elle conduit souvent \u00C3\u00A0 la formation de d\u00C3\u00A9p\u00C3\u00B4ts meubles au dessous des zones affect\u00C3\u00A9es. Si la surface de la pierre forme une cavit\u00C3\u00A9 (creusement), les mat\u00C3\u00A9riaux d\u00C3\u00A9tach\u00C3\u00A9s peuvent s\u00E2\u0080\u0099accumuler par gravit\u00C3\u00A9 sur la partie inf\u00C3\u00A9rieure de la cavit\u00C3\u00A9. La taille des grains d\u00C3\u00A9termine la taille des mat\u00C3\u00A9riaux d\u00C3\u00A9tach\u00C3\u00A9s"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Powdering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulv\u00E9rulence"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#altLabel> "Chalking"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#altLabel> "Farinage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#definition> "Term employed for describing granular disintegration of finely grained stones"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#powdering> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9sagr\u00C3\u00A9gation en poudre d\u00E2\u0080\u0099un mat\u00C3\u00A9riau \u00C3\u00A0 grains fins (ex. craie)."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sugaring"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9sagr\u00E9gation saccharo\u00EFde"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/2004/02/skos/core#definition> "Granular disintegration employed mainly in the white cristallyne marble domain"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sugaring> <http://www.w3.org/2004/02/skos/core#definition> "Sous-types de d\u00E9sagr\u00E9gation granulaire dans le domaine du marbres cristallins."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sanding"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9sagr\u00E9gation sableuse"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#granularDisintegration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/2004/02/skos/core#definition> "Describe granular disintegration of sandstones and granites."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#sanding> <http://www.w3.org/2004/02/skos/core#definition> "sous-types de d\u00C3\u00A9sagr\u00C3\u00A9gation granulaire qui s\u00E2\u0080\u0099applique aux gr\u00C3\u00A8s et aux granites."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fragmentation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fragmentation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#altLabel> "Cassure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#splintering> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#chipping> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#definition> "The complete or partial breaking up of a stone, into portions of variable dimensions that are irregular in form, thickness and volume."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> <http://www.w3.org/2004/02/skos/core#definition> "Fracturation partielle ou compl\u00C3\u00A8te de la pierre en fragments de dimensions variables dont la forme, l\u00E2\u0080\u0099\u00C3\u00A9paisseur et le volume sont irr\u00C3\u00A9guliers."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Splintering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fragmentation en esquilles"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/2004/02/skos/core#definition> "Detachment of sharp, slender pieces of stone, split or broken off from the main body."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#splintering> <http://www.w3.org/2004/02/skos/core#definition> "Fracturation en un ou plusieurs fragments de forme allong\u00E9e aux ar\u00EAtes vives."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chipping"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epaufrure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#fragmentation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/2004/02/skos/core#definition> "Breaking off of pieces, called chips, from the edges of a block."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#chipping> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9tachement d\u00E2\u0080\u0099un \u00C3\u00A9clat sur une ar\u00C3\u00AAte. Le frag-ment form\u00C3\u00A9 (chip en anglais) a une taille variable et une forme irr\u00C3\u00A9guli\u00C3\u00A8re."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peeling"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pelage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#altLabel> "Peeling off"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#altLabel> "Ecaillage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid9 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid10 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#definition> "Shedding, coming off, or partial detachment of a superficial layer (thickness : submillimetric to millimetric) having the aspect of a film or coating which has been applied on the stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9collement partiel ou total d\u00E2\u0080\u0099une fine couche (\u00C3\u00A9paisseur inframillim\u00C3\u00A9trique \u00C3\u00A0 millim\u00C3\u00A9trique) ayant l\u00E2\u0080\u0099aspect d\u00E2\u0080\u0099un film ou d\u00E2\u0080\u0099un rev\u00C3\u00AAtement appliqu\u00C3\u00A9 sur la pierre."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not to be confused with Blistering, which is associated with a dome-like morphology and Scaling, which is related to the detachment of stone layers (thickness : millimetric to centimetric)."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#peeling> <http://www.w3.org/2004/02/skos/core#scopeNote> "Ne pas confondre avec Boursouflure, associ\u00C3\u00A9 \u00C3\u00A0 une forme en d\u00C3\u00B4me et Desquamation, qui se rapporte au d\u00C3\u00A9tachement de couches de pierre d\u00E2\u0080\u0099\u00C3\u00A9paisseur millim\u00C3\u00A9trique \u00C3\u00A0 centim\u00C3\u00A9trique."@fr .
+_:genid9 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid9 <http://purl.org/dc/terms/modified> "2017-05-26T10:40:51+00:00" .
+_:genid10 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid10 <http://purl.org/dc/terms/modified> "2017-05-26T10:45:37+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scaling"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desquamation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#definition> "Detachment of stone as a scale or a stack of scales, not following any stone structure and detaching like fish scales or parallel to the stone surface. The thickness of a scale is generally of millimetric to centimetric scale, and is negligeable compared to its surface dimension."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9tachement d\u00E2\u0080\u0099\u00C3\u00A9cailles de pierre individuelles ou en paquets ind\u00C3\u00A9pendamment de toute structure orient\u00C3\u00A9e pr\u00C3\u00A9existante. La desquamation se d\u00C3\u00A9veloppe parall\u00C3\u00A8lement \u00C3\u00A0 la surface ou en \u00C3\u00A9cailles de poisson. L\u00E2\u0080\u0099\u00C3\u00A9paisseur des \u00C3\u00A9cailles est n\u00C3\u00A9gligeable par rapport \u00C3\u00A0 leur extension."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not to be confused with Delamination, which corresponds to a detachment following the bedding or shistosity planes of a stone."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scaling> <http://www.w3.org/2004/02/skos/core#scopeNote> "Ne pas confondre avec D\u00E9litage que correspond \u00E0 un d\u00E9tachement selon une orientation pr\u00E9existante, telle que des plans de litage ou des plans de schistosit\u00E9."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#prefLabel> "Features Induced by Material Loss"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#prefLabel> "Figures Induites Par Une Perte De mati\u00E8re"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#erosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#perforation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#pitting> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alveolization"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alv\u00E9olisation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#altLabel> "Alveolar erosion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#altLabel> "alveolar weathering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#altLabel> "honeycomb"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#altLabel> "Alveolisation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#coving> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#definition> "Formation, on the stone surface, of cavities (alveoles) which may be interconnected and may have variable shapes and sizes (generally centimetric, sometimes metric)."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#definition> "Formation, \u00E0 la surface de la pierre, de cavit\u00E9s (alv\u00E9oles) variables en forme et taille (souvent centim\u00E9trique, parfois m\u00E9trique), et qui peuvent \u00EAtre interconnect\u00E9es."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#scopeNote> "Not to be confused with Microkarst which refers to a network of millimetric to centrimetric interconnected depressions, clearly linked to a dissolution process. or Pitting, which corresponds to the formation of point-like millimetric to submillimetric pits, generally not connected, on a stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> <http://www.w3.org/2004/02/skos/core#scopeNote> "Ne pas confondre avec Microkarst que se rapporte \u00E0 un r\u00E9seau de cavit\u00E9s manifestement dues \u00E0 une dissolution, et qui conf\u00E8rent un aspect ravin\u00E9 \u00E0 la surface de la pierre. Pitting : correspond \u00E0 la formation de microcavit\u00E9s g\u00E9n\u00E9ralement non connect\u00E9es."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coving"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creusement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#alveolization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/2004/02/skos/core#definition> "Erosion feature consisting in a single alveole developing from the edge of the stone block."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#coving> <http://www.w3.org/2004/02/skos/core#definition> "S\u00E2\u0080\u0099applique \u00C3\u00A0 la formation d\u00E2\u0080\u0099une seule alv\u00C3\u00A9ole affectant la surface de la pierre \u00C3\u00A0 partir de ses ar\u00C3\u00AAtes."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erosion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9rosion"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#altLabel> "Loss of material"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#rounding> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#roughening> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#definition> "Loss of original surface, leading to smoothed shapes."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#erosion> <http://www.w3.org/2004/02/skos/core#definition> "Disparition de la surface originelle de la pierre, conduisant \u00E0 des contours \u00E9mouss\u00E9s."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Differential erosion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00C9rosion diff\u00E9rentielle"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#altLabel> "Differential deterioration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#altLabel> "Relief formation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#erosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#definition> "occurs when erosion does not proceed at the same rate from one area of the stone to the other. As a result, the stone deteriorates irregularly. This feature is found on heterogeneous stones containing harder and/or less porous zones. It may also occur as a result of selective lichen attack on calcitic stones. Differential erosion is generally found on sedimentary and volcanic stones"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> <http://www.w3.org/2004/02/skos/core#definition> "Conduit \u00C3\u00A0 la formation de reliefs, par exemple \u00C3\u00A0 la cr\u00C3\u00A9ation d\u00E2\u0080\u0099irr\u00C3\u00A9gularit\u00C3\u00A9s \u00C3\u00A0 la surface de la pierre. Elle appara\u00C3\u00AEt si l\u00E2\u0080\u0099\u00C3\u00A9rosion ne progresse pas de fa\u00C3\u00A7on homog\u00C3\u00A8ne sur toute la surface de la pierre. On trouve cette figure sur les pierres h\u00C3\u00A9t\u00C3\u00A9rog\u00C3\u00A8nes, contenant des zones plus dures et/ou moins poreuses. Les roches calcitiques peuvent aussi pr\u00C3\u00A9senter une \u00C3\u00A9rosion diff\u00C3\u00A9rentielle r\u00C3\u00A9sultant d\u00E2\u0080\u0099une attaque s\u00C3\u00A9lective par des lichens. Certaines roches s\u00C3\u00A9dimentaires et volcaniques sont particuli\u00C3\u00A8rement sujettes \u00C3\u00A0 ce type d\u00E2\u0080\u0099alt\u00C3\u00A9ration."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loss of components"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perte de constituants"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#definition> "Partial or selective elimination of soft or compact stone components"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#definition> "Correspond \u00C3\u00A0 l\u00E2\u0080\u0099\u00C3\u00A9limination s\u00C3\u00A9lective de constituants plus tendres ou plus compacts."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#example> "lentilles d\u00E2\u0080\u0099argile, nodules de limonite, galets, fragments de fossiles, concr\u00C3\u00A9tions"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfComponents> <http://www.w3.org/2004/02/skos/core#example> "clay lenticles, nodes of limonite, pebbles, fossil fragments, geological concretions, lava fragments"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#prefLabel> "Loss of matrix"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perte de matrice"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#differentialErosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#definition> "Partial or selective elimination of the stone matrix, resulting in protruding compact stone components."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#definition> "Processus inverse correspondant \u00E0 une \u00E9limination s\u00E9lective de la matrice de la pierre, avec pour cons\u00E9quence la mise en relief de constituants compacts de la pierre"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lossOfMatrix> <http://www.w3.org/2004/02/skos/core#example> "galets, fossiles, fragments de lave"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rounding"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erosion en boule"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#erosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/2004/02/skos/core#definition> "Preferential erosion of originally angular stone edges leading to a distinctly rounded profile. Rounding can especially be observed on stones which preferably deteriorate through granular disintegration, or when environmental conditions favor granular disintegration."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#rounding> <http://www.w3.org/2004/02/skos/core#definition> "Forme arrondie r\u00C3\u00A9sultant de l\u00E2\u0080\u0099\u00C3\u00A9rosion pr\u00C3\u00A9f\u00C3\u00A9rentielle des bords originellement anguleux d\u00E2\u0080\u0099une pierre. On observe cette forme d\u00E2\u0080\u0099alt\u00C3\u00A9ration sur les pierres sujettes \u00C3\u00A0 la d\u00C3\u00A9sagr\u00C3\u00A9gation granulaire, ou plac\u00C3\u00A9es dans des conditions telles que la d\u00C3\u00A9sagr\u00C3\u00A9gation granulaire peut se d\u00C3\u00A9velopper."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roughening"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/2004/02/skos/core#prefLabel> "Augmentation de rugosit\u00E9"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#erosion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/2004/02/skos/core#definition> "Selective loss of small particles from an originally smooth stone surface. The substrate is still sound. Roughening can appear either progressively in case of long term deterioration process (for instance in case of granular disintegration), or instantaneously in case of inappropriate actions, such as aggressive cleaning."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#roughening> <http://www.w3.org/2004/02/skos/core#definition> "correspond \u00C3\u00A0 un accroissement de rugosit\u00C3\u00A9 d\u00E2\u0080\u0099une surface originellement douce, par perte s\u00C3\u00A9lective de petites particules sur un substrat encore sain. Dans le cas d\u00E2\u0080\u0099une pierre originellement polie, on parle d\u00C3\u00A9polissage. Une augmentation de rugosit\u00C3\u00A9 peut \u00C3\u00AAtre progressive car due \u00C3\u00A0 une exposition continue aux agents de d\u00C3\u00A9t\u00C3\u00A9rioration, (exemple : d\u00C3\u00A9sagr\u00C3\u00A9gation granulaire) ou imm\u00C3\u00A9diate, comme lors d\u00E2\u0080\u0099un nettoyage agressif."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mechanical Damage"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9g\u00E2t m\u00E9canique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#altLabel> "Arrachement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#cut> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#scratch> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#keying> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#definition> "Loss of stone material clearly due to a mechanical action."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> <http://www.w3.org/2004/02/skos/core#definition> "Perte de mati\u00E8re due \u00E0 une action m\u00E9canique."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Impact damage"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trace d\u00E2\u0080\u0099impact"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/2004/02/skos/core#definition> "Mechanical damage due to the impact of a projectile (bullet, shrapnel) or of a hard tool."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#impactDamage> <http://www.w3.org/2004/02/skos/core#definition> "D\u00C3\u00A9g\u00C3\u00A2t m\u00C3\u00A9canique d\u00C3\u00BB \u00C3\u00A0 l\u00E2\u0080\u0099impact d\u00E2\u0080\u0099un projectile (balle, \u00C3\u00A9clat d\u00E2\u0080\u0099obus etc.) ou d\u00E2\u0080\u0099un outil dur."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cut"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Incision"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/2004/02/skos/core#definition> "Loss of material due to the action of an edge tool. It can have the appearance of an excavated cavity, an incision, a missing edge, etc...Tool marks can be considered as special kinds of cuts but should not be considered as damage features."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#cut> <http://www.w3.org/2004/02/skos/core#definition> "Marque laiss\u00C3\u00A9e par l\u00E2\u0080\u0099\u00C3\u00A9limination de mati\u00C3\u00A8re \u00C3\u00A0 l\u00E2\u0080\u0099aide d\u00E2\u0080\u0099un instrument coupant. Une incision peut avoir l\u00E2\u0080\u0099apparence d\u00E2\u0080\u0099une cavit\u00C3\u00A9 excav\u00C3\u00A9e, une coupure, un bord manquant, etc. Les marques d\u00E2\u0080\u0099outil peuvent \u00C3\u00AAtre consid\u00C3\u00A9r\u00C3\u00A9es comme des formes sp\u00C3\u00A9ciales d\u00E2\u0080\u0099incisions, mais ne devraient pas \u00C3\u00AAtre consid\u00C3\u00A9r\u00C3\u00A9es comme des formes d\u00E2\u0080\u0099alt\u00C3\u00A9ration. Certains graffitis peuvent \u00C3\u00AAtre faits par incision de la pierre."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scratch"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rayure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#altLabel> "\u00E9raflure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#definition> "Manually induced superficial and line-like loss of material due to the action of some pointed object. It can be accidental or intentional. Usually it appears as a more or less long groove. Tool marks can have the appearance of scratches, but should not be taken as damage features"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scratch> <http://www.w3.org/2004/02/skos/core#definition> "Perte lin\u00C3\u00A9aire de mati\u00C3\u00A8re, accidentelle ou intentionnelle, provoqu\u00C3\u00A9e par l\u00E2\u0080\u0099action manuelle d\u00E2\u0080\u0099un objet pointu. Habituellement, les rayures apparaissent sous forme de sillons plus ou moins longs, isol\u00C3\u00A9s ou associ\u00C3\u00A9s en s\u00C3\u00A9ries. Les outils de taille peuvent laisser des traces ayant l\u00E2\u0080\u0099apparence de rayures, mais ces traces ne doivent pas \u00C3\u00AAtre consid\u00C3\u00A9r\u00C3\u00A9es comme des signes d\u00E2\u0080\u0099alt\u00C3\u00A9ration. La griffure (ex. de pigeon) est une forme de rayure."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abrasion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abrasion"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/2004/02/skos/core#definition> "Erosion due to wearing down or rubbing away by means of friction, or to the impact of particles."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#abrasion> <http://www.w3.org/2004/02/skos/core#definition> "Erosion due \u00C3\u00A0 un frottement (attrition) ou \u00C3\u00A0 l\u00E2\u0080\u0099impact de particules."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keying"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/2004/02/skos/core#prefLabel> "B\u00FBchage"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#mechanicalDamage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/2004/02/skos/core#definition> "Impact damage resulting from hitting a surface with a pointed tool, in order to get an irregular surface which will assist the adhesion of an added material, a mortar for instance."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#keying> <http://www.w3.org/2004/02/skos/core#definition> "Ensemble d\u00E2\u0080\u0099entailles r\u00C3\u00A9alis\u00C3\u00A9es par un outil de taille. Ces entailles ont pour but de rendre la surface irr\u00C3\u00A9guli\u00C3\u00A8re de fa\u00C3\u00A7on \u00C3\u00A0 favoriser l\u00E2\u0080\u0099accrochage m\u00C3\u00A9canique d\u00E2\u0080\u0099un mat\u00C3\u00A9riau rajout\u00C3\u00A9, un mortier par exemple. Le b\u00C3\u00BBchage d\u00C3\u00A9signe aussi en Fran\u00C3\u00A7ais l\u00E2\u0080\u0099\u00C3\u00A9limination, par vandalisme, d\u00E2\u0080\u0099une partie saillante d\u00E2\u0080\u0099une sculpture."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microkarst"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microkarst"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#altLabel> "Karst"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#altLabel> "dissolution"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#altLabel> "cratering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#altLabel> "Karst"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#definition> "Network of small interconnected depressions of millimetric to centrimetric scale, sometimes looking like hydrographic network. Microkarst patterns are due to a partial and/or selective dissolution of calcareous stone surfaces exposed to water run-off."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#microkarst> <http://www.w3.org/2004/02/skos/core#definition> "R\u00C3\u00A9seau de petites d\u00C3\u00A9pressions interconnect\u00C3\u00A9es, d\u00E2\u0080\u0099\u00C3\u00A9chelle millim\u00C3\u00A9trique \u00C3\u00A0 centim\u00C3\u00A9trique, ayant parfois l\u00E2\u0080\u0099aspect d\u00E2\u0080\u0099un r\u00C3\u00A9seau hydrographique. G\u00C3\u00A9n\u00C3\u00A9ralement, les figures de microkarst sont dues \u00C3\u00A0 une dissolution partielle ou s\u00C3\u00A9lective de la surface des pierres calcaires expos\u00C3\u00A9es au ruissellement d\u00E2\u0080\u0099eau."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#prefLabel> "Missing Part"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#prefLabel> "Partie Manquante"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#altLabel> "Lacuna"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#altLabel> "Manque"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#altLabel> "lacune"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#gap> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid11 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#definition> "Empty space, obviously located in the place of some formerly existing stone part. Protruding and particularly exposed parts of sculptures (nose, fingers..) are typical locations for material loss resulting in missing parts."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> <http://www.w3.org/2004/02/skos/core#definition> "Absence de tout ou partie d\u00E2\u0080\u0099une pierre. Cette figure d\u00E2\u0080\u0099alt\u00C3\u00A9ration affecte fr\u00C3\u00A9quemment les \u00C3\u00A9l\u00C3\u00A9ments pro\u00C3\u00A9minents et particuli\u00C3\u00A8rement expos\u00C3\u00A9s des sculptures (nez, orteils, doigts)."@fr .
+_:genid11 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid11 <http://purl.org/dc/terms/modified> "2017-05-26T11:53:40+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gap"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trou"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#missingPart> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/2004/02/skos/core#definition> "Hollow place in the stone surface, hole."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#gap> <http://www.w3.org/2004/02/skos/core#definition> "Espace vide, cavit\u00E9."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perforation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perforation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#altLabel> "Drill hole"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#altLabel> "Percement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#definition> "A single or series of surface punctures, holes or gaps, made by a sharp tool or created by an animal. The size is generally of millimetric to centrimetric scale. Perforations are deeper than wide, and penetrate into the body of the stone"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#perforation> <http://www.w3.org/2004/02/skos/core#definition> "Poin\u00C3\u00A7onnement, percement, simple ou multiple, de taille milli\u00C3\u00A0 centim\u00C3\u00A9trique, induit par un animal ou un outil, qui s\u00E2\u0080\u0099\u00C3\u00A9tend en profondeur. Une perforation est plus profonde que large."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pitting"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pitting"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#altLabel> "Piq\u00FBre"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#definition> "Point-like millimetric or submillimetric shallow cavities. The pits generally have a cylindrical or conical shape and are not interconnected, although transitions patterns to interconnected pits can also be observed."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#pitting> <http://www.w3.org/2004/02/skos/core#definition> "Cavit\u00E9 millim\u00E9trique ou submillim\u00E9trique peu profonde. Les piq\u00FBres ont g\u00E9n\u00E9ralement une forme conique ou cylindrique et ne sont pas connect\u00E9es. On peut observer cependant des formes de transition vers un syst\u00E8me de piq\u00FBres interconnect\u00E9es."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Discoloration & Deposit"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alt\u00E9ration Chromatique Et D\u00E9p\u00F4t"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#crust> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#deposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#film> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#patina> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#soiling> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crust"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cro\u00FBte"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#definition> "Generally coherent accumulation of materials on the surface. A crust may include exogenic deposits in combination with materials derived from the stone. A crust is frequently dark coloured (black crust) but light colours can also be found. Crusts may have an homogeneous thickness, and thus replicate the stone surface, or have irregular thickness and disturb the reading of the stone surface details."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crust> <http://www.w3.org/2004/02/skos/core#definition> "Accumulation de mat\u00E9riaux en une ou plusieurs couches superficielles coh\u00E9rentes. Une cro\u00FBte peut contenir des d\u00E9p\u00F4ts exog\u00E8nes combin\u00E9s avec des mat\u00E9riaux d\u00E9riv\u00E9s de la pierre. Une cro\u00FBte est fr\u00E9quemment de couleur fonc\u00E9e (ex. Cro\u00FBte noire) mais on rencontre aussi des cro\u00FBtes de teinte claire. Les cro\u00FBtes peuvent avoir une \u00E9paisseur homog\u00E8ne, auquel cas elles reproduisent fid\u00E8lement les contours de la pierre, ou bien avoir une \u00E9paisseur irr\u00E9guli\u00E8re ce qui perturbe la lecture des d\u00E9tails superficiels."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Black crust"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cro\u00FBte noire"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crust> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/2004/02/skos/core#definition> "Kind of crust developing generally on areas protected against direct rainfall or water runoff in urban environment. Black crusts usually adhere firmly to the substrate. They are composed mainly of particles from the atmosphere, trapped into a gypsum (CaSO4.2H2O). matrix."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#blackCrust> <http://www.w3.org/2004/02/skos/core#definition> "Cro\u00C3\u00BBte de couleur grise \u00C3\u00A0 noire, habituellement fortement adh\u00C3\u00A9rente, et qui se d\u00C3\u00A9veloppe en milieu urbain, dans des zones prot\u00C3\u00A9g\u00C3\u00A9es de l\u00E2\u0080\u0099impact direct de la pluie ou des ruissellements d\u00E2\u0080\u0099eau. Les cro\u00C3\u00BBtes noires sont principalement constitu\u00C3\u00A9es de particules provenant de l\u00E2\u0080\u0099atmosph\u00C3\u00A8re, pi\u00C3\u00A9g\u00C3\u00A9es dans une matrice de gypse (CaSO4.2H2O)."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Salt crust"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cro\u00FBte saline"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#crust> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/2004/02/skos/core#definition> "Crust composed of soluble salts, which develop in the presence of high salt levels, and form from wetting and drying cycles."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#saltCrust> <http://www.w3.org/2004/02/skos/core#definition> "Cro\u00C3\u00BBte compos\u00C3\u00A9e de sels solubles, qui se d\u00C3\u00A9veloppe dans un contexte de forte teneur en sel, au gr\u00C3\u00A9 des cycles d\u00E2\u0080\u0099humectation-dessiccation."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deposit"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9p\u00F4t"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#altLabel> "D\u00E9p\u00F4t superficiel"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#altLabel> "Surface deposit"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#definition> "Accumulation of exogenic material of variable thickness. Some examples of deposits : splashes of paint or mortar, sea salt aerosols, atmospheric particles such as soot or dust, remains of conservation materials such as cellulose poultices, blast materials etc.."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deposit> <http://www.w3.org/2004/02/skos/core#definition> "Accumulation superficielle de mat\u00C3\u00A9riaux exog\u00C3\u00A8nes formant une couche peu coh\u00C3\u00A9rente et d\u00E2\u0080\u0099\u00C3\u00A9paisseur variable. Exemples de d\u00C3\u00A9p\u00C3\u00B4ts : \u00C3\u00A9claboussures de peinture ou de mortier, sels provenant d\u00E2\u0080\u0099a\u00C3\u00A9rosols marins, poussi\u00C3\u00A8res, restes de mat\u00C3\u00A9riaux de conservation comme compresses cellulosiques, poudres de sablage etc."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Discolouration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alt\u00E9ration Chromatique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#altLabel> "Chromatic alteration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#altLabel> "Discoloration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#colouration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#staining> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid12 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#definition> "Change of the stone colour in one to three of the colour parameters : hue, value and chroma. Hue corresponds to the most prominent characteristic of a colour (blue, red, yellow, orange etc..).Value corresponds to the darkness (low hues) or lightness (high hues) of a colour. Chroma corresponds to the purity of a colour. High chroma colours look rich and full. Low chroma colours look dull and grayish. Sometimes chroma is called saturation."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> <http://www.w3.org/2004/02/skos/core#definition> "Modification d\u00E2\u0080\u0099un ou plusieurs des param\u00C3\u00A8tres caract\u00C3\u00A9risant la couleur de la pierre : teinte, clart\u00C3\u00A9, saturation. Teinte : correspond \u00C3\u00A0 la caract\u00C3\u00A9ristique la plus marquante de la couleur (bleu, rouge, jaune, orange etc.). Clart\u00C3\u00A9 : correspond au caract\u00C3\u00A8re fonc\u00C3\u00A9 (clart\u00C3\u00A9 faible), ou clair (forte clart\u00C3\u00A9) de la couleur. Saturation : correspond \u00C3\u00A0 la puret\u00C3\u00A9 d\u00E2\u0080\u0099une couleur. Les couleurs \u00C3\u00A0 saturation \u00C3\u00A9lev\u00C3\u00A9e paraissent vives et pleines. Les couleurs \u00C3\u00A0 saturation faible paraissent gris\u00C3\u00A2tres et ternes."@fr .
+_:genid12 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid12 <http://purl.org/dc/terms/modified> "2017-05-26T12:04:22+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colouration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coloration"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#altLabel> "colouring"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#definition> "Change in hue, value and/or a gain in chroma"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#colouration> <http://www.w3.org/2004/02/skos/core#definition> "Changement de teinte, de clart\u00E9 et /ou \u00E0 un gain en saturation."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bleaching"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9coloration"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#altLabel> "fading"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#definition> "gain in value due to chemical weathering of minerals (e.g. reduction of iron and manganese compounds) or extraction of coloring matter (leaching, washing out), or loss of polish, generally very superficial. Dark and bright color marbles often show bleaching as a result of exposure to weather."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bleaching> <http://www.w3.org/2004/02/skos/core#definition> "augmentation de clart\u00C3\u00A9, due \u00C3\u00A0 l\u00E2\u0080\u0099alt\u00C3\u00A9ration chimique des min\u00C3\u00A9raux (par exemple r\u00C3\u00A9duction du fer et du mangan\u00C3\u00A8se) ou \u00C3\u00A0 l\u00E2\u0080\u0099extraction de mati\u00C3\u00A8re colorante (par lavage, lessivage), ou par perte de poli, g\u00C3\u00A9n\u00C3\u00A9ralement tr\u00C3\u00A8s superficielle. Les marbres fonc\u00C3\u00A9s et ceux de couleurs vives subissent souvent une d\u00C3\u00A9coloration suite \u00C3\u00A0 une exposition aux intemp\u00C3\u00A9ries. Un blanchiment est une sorte de d\u00C3\u00A9coloration."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moist area"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#prefLabel> "Assombrissement du \u00C3\u00A0 l\u00E2\u0080\u0099humidit\u00C3\u00A9"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#altLabel> "moist spot"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#altLabel> "moist zone or visible damp area"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#altLabel> "tache d\u00E2\u0080\u0099humidit\u00C3\u00A9"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#altLabel> "zone humide visible"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#definition> "Corresponds to the darkening (lower hue) of a surface due to dampness"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moistArea> <http://www.w3.org/2004/02/skos/core#definition> "Assombrissement du \u00C3\u00A0 l\u00E2\u0080\u0099humidit\u00C3\u00A9 est consid\u00C3\u00A9r\u00C3\u00A9e comme une alt\u00C3\u00A9ration chromatique (baisse de saturation)."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/2004/02/skos/core#prefLabel> "Staining"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tache"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolouration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/2004/02/skos/core#definition> "Kind of discolouration of limited extent and generally of unattractive appearance."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#staining> <http://www.w3.org/2004/02/skos/core#definition> ">one d\u00E2\u0080\u0099extension limit\u00C3\u00A9e pr\u00C3\u00A9sentant une alt\u00C3\u00A9ration chromatique et ayant une apparence d\u00C3\u00A9plaisante."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Efflorescence"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Efflorescence"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#altLabel> "loose salt deposits"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#altLabel> "Efflorescence saline"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#altLabel> "salp\u00EAtre"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#definition> "Generally whitish, powdery or whisker-like crystals on the surface. Efflorescences are generally poorly cohesive and commonly made of soluble salt crystals."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#efflorescence> <http://www.w3.org/2004/02/skos/core#definition> "Amas de cristaux habituellement blancs, d\u00E2\u0080\u0099aspect poudreux, aciculaire (en forme d\u00E2\u0080\u0099aiguilles) ou filamenteux, localis\u00C3\u00A9s en surface de la pierre. En g\u00C3\u00A9n\u00C3\u00A9ral, les efflorescences sont peu coh\u00C3\u00A9rentes et constitu\u00C3\u00A9es de sels solubles."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Encrustation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Encro\u00FBtement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#altLabel> "Incrustation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#concretion> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#definition> "Compact, hard, mineral outer layer adhering to the stone. Surface morphology and colour are usually different from those of the stone."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> <http://www.w3.org/2004/02/skos/core#definition> "Couche superficielle compacte, dure et adh\u00E9rente. La morphologie superficielle et la couleur sont habituellement diff\u00E9rentes de celles de la pierre."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concretion"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concr\u00E9tion"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#encrustation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/2004/02/skos/core#definition> "Kind of encrustation having a specific shape: nodular, botryo\u00EFdal (grape-like) or frambo\u00EFdal (raspberry like). Concretions may even have conic shapes of form drapery-like vertical sheets. Stalagmites and stalactites are kinds of concretions. In general, concretions do not outline, contour the surface of the stone, and are of limited extent."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#concretion> <http://www.w3.org/2004/02/skos/core#definition> "Sorte d\u00E2\u0080\u0099encro\u00C3\u00BBtement en forme de d\u00C3\u00A9p\u00C3\u00B4t compact noduleux, botryo\u00C3\u00AFde (comme une grappe) ou frambo\u00C3\u00AFde (comme une framboise). Une concr\u00C3\u00A9tion peut m\u00C3\u00AAme avoir des formes coniques ou constituer des feuillets verticaux (draperies). Les stalagmites et stalactites sont des sortes de concr\u00C3\u00A9tions. En g\u00C3\u00A9n\u00C3\u00A9ral, les concr\u00C3\u00A9tions ont une \u00C3\u00A9paisseur irr\u00C3\u00A9guli\u00C3\u00A8re et ne suivent pas les contours des pierres. Elles ont une extension lat\u00C3\u00A9rale limit\u00C3\u00A9e."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#prefLabel> "Film"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#prefLabel> "Film"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#altLabel> "Pellicle"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#altLabel> "skin"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#altLabel> "Pellicule"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#altLabel> "peau"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#definition> "Thin covering or coating layer generally of organic nature, generally homogeneous, follows the stone surface. A film may be opaque or translucent"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#film> <http://www.w3.org/2004/02/skos/core#definition> "Recouvrement mince, homog\u00C3\u00A8ne, d\u00E2\u0080\u0099\u00C3\u00A9paisseur g\u00C3\u00A9n\u00C3\u00A9ralement uniforme, habituellement de nature organique, souvent transparent, et qui \u00C3\u00A9pouse la surface de la pierre."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glossy Aspect"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aspect Luisant"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#altLabel> "Polished surface"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#definition> "Aspect of a surface that reflects totally or partially the light. The surface has a mirror-like appearance."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#glossyAspect> <http://www.w3.org/2004/02/skos/core#definition> "Aspect de surface qui refl\u00E8te totalement ou partiellement la lumi\u00E8re. La surface ressemble \u00E0 un miroir."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graffiti"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graffiti"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#altLabel> "Graffitis"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#definition> "Engraving, scratching, cutting or application of paint, ink or similar matter on the stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#graffiti> <http://www.w3.org/2004/02/skos/core#definition> "Forme d\u00E2\u0080\u0099alt\u00C3\u00A9ration superficielle r\u00C3\u00A9sultant d\u00E2\u0080\u0099une incision, rayure ou application de peinture, encre ou mat\u00C3\u00A9riau assimil\u00C3\u00A9."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patina"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patine"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#definition> "Chromatic modification of the material, generally resulting from natural or artificial ageing and not involving in most cases visible surface deterioration."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#patina> <http://www.w3.org/2004/02/skos/core#definition> "Modification chromatique superficielle, r\u00C3\u00A9sultant d\u00E2\u0080\u0099une alt\u00C3\u00A9ration naturelle ou artificielle et n`impliquant g\u00C3\u00A9n\u00C3\u00A9ralement pas de d\u00C3\u00A9gradation superficielle visible."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iron rich patina"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#patina> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> <http://www.w3.org/2004/02/skos/core#definition> "Natural black to brown thin layer enriched in iron/clay minerals, which can be found on iron containing sandstones. This kind of patina is generally observed in outdoors environment, and develops quite uniformly on the stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#ironRichPatina> <http://www.w3.org/2004/02/skos/core#definition> "Type de patine brune \u00E0 noire, se formant naturellement sur les gr\u00E8s contenant du fer. Elles se d\u00E9veloppent assez uniform\u00E9ment sur la surface de la pierre, dans les zones expos\u00E9es aux intemp\u00E9ries."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oxalate patina"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patine d\u00E2\u0080\u0099oxalates"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#patina> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/2004/02/skos/core#definition> "Orange to brown thin layer enriched in calcium oxalates. This kind of patina may be found in outdoors environment, often on marble and limestone substrates."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#oxalatePatina> <http://www.w3.org/2004/02/skos/core#definition> "Ces patines, orange \u00E0 brunes, sont de fines couches enrichies en oxalates de calcium. Elles se forment sur diff\u00E9rents substrats, le plus souvent sur calcaires et marbres, en milieu ext\u00E9rieur."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soiling"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Encrassement"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#altLabel> "Salissure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#definition> "Deposit of a very thin layer of exogenous particles (eg. soot) giving a dirty appearance to the stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#soiling> <http://www.w3.org/2004/02/skos/core#definition> "D\u00E9p\u00F4t tr\u00E8s fin de particules exog\u00E8nes (par ex. poussi\u00E8res, suies) donnant un aspect sale \u00E0 la surface de pierre"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subflorescence"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subflorescence"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#altLabel> "Cryptoflorescence"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#altLabel> "Cryptoflorescence"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#definition> "Poorly adhesive soluble salts, commonly white, located under the stone surface."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#subflorescence> <http://www.w3.org/2004/02/skos/core#definition> "Cristaux de sels habituellement blancs, peu adh\u00E9rents, form\u00E9s sous la surface de la pierre."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological Colonization"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colonisation Biologique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#altLabel> "Biological growth"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#altLabel> "biological overgrowth"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#altLabel> "living exogenous material"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#altLabel> "Biological colonisation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#altLabel> "Croissance biologique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#altLabel> "Prolif\u00E9ration v\u00E9g\u00E9tale"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#definition> "Colonization of the stone by plants and micro-organisms such as bacteria, cyanobacteria, algae, fungi and lichen (symbioses of the latter three). Biological colonization also includes influences by other organisms such as animals nesting on and in stone."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> <http://www.w3.org/2004/02/skos/core#definition> "L\u00E2\u0080\u0099expression colonisation biologique s\u00E2\u0080\u0099applique surtout aux plantes et aux microorganismes tels que bact\u00C3\u00A9ries, cyanobact\u00C3\u00A9ries, algues, moisissures et lichens (symbioses des trois derniers). Il s\u00E2\u0080\u0099applique aussi aux structures fabriqu\u00C3\u00A9es par des animaux, tels que des nids."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological Colonization"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colonisations Biologiques"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#biologicalColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#alga> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#lichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#moss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#mould> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#plant> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid13 .
+_:genid13 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid13 <http://purl.org/dc/terms/modified> "2017-05-26T13:54:57+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alga"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algue"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#altLabel> "algae"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#definition> "Algae are microscopic vegetal organisms without stem nor leaves which can be seen outdoors and indoors, as powdery or viscous deposits (thickness : tenth of mm to several mm). Algae form green, red, brown, or black veil like zones and can be found mainly in situations where the substrate remains moistened for long periods of time. Depending on the environmental conditions and substrate type, algae may form solid layers or smooth films. On monuments, algae are constituted of unicellular to pluricellular clusters, and they never form macroorganisms."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alga> <http://www.w3.org/2004/02/skos/core#definition> "Les algues sont des organismes v\u00C3\u00A9g\u00C3\u00A9taux microscopiques sans tige ni feuille formant \u00C3\u00A0 l\u00E2\u0080\u0099int\u00C3\u00A9rieur comme \u00C3\u00A0 l\u00E2\u0080\u0099ext\u00C3\u00A9rieur des \u00C3\u00A9difices des voiles verts, noirs ou rouges ou bruns (\u00C3\u00A9paisseur quelques dixi\u00C3\u00A8mes de mm \u00C3\u00A0 plusieurs mm). Selon les conditions environnementales et le substrat les algues peuvent former des films pulv\u00C3\u00A9rulents ou visqueux. Les algues se d\u00C3\u00A9veloppent principalement dans les situations o\u00C3\u00B9 la surface du substrat reste humide pendant de longues p\u00C3\u00A9riodes. Sur les monuments, les algues sont constitu\u00C3\u00A9es de rassemblements uni-ou multicellulaires, elles ne forment jamais de macro-organismes."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichen"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichen"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#crustoseLichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#FoliousLichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#epilithicLichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#definition> "Vegetal organism forming rounded millimetric to centimetric crusty or bushy patches, often having a leathery appearence, growing generally on outside parts of a building. Lichen are most commonly grey, yellow, orange, green or black and show no differentiation into stem, root and leaf."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#lichen> <http://www.w3.org/2004/02/skos/core#definition> "Structure v\u00C3\u00A9g\u00C3\u00A9tale millim\u00C3\u00A9trique \u00C3\u00A0 centim\u00C3\u00A9trique, g\u00C3\u00A9n\u00C3\u00A9ralement arrondie, ayant un aspect encro\u00C3\u00BBtant ou buissonnant, et l\u00E2\u0080\u0099aspect du cuir. De couleur vari\u00C3\u00A9e (orange, vert, gris, brun ou noir), ils ne montrent pas de diff\u00C3\u00A9renciation en feuilles, tige et racine. Les lichens se d\u00C3\u00A9veloppent g\u00C3\u00A9n\u00C3\u00A9ralement sur les surfaces externes de monuments."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crustoseLichen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crustoseLichen> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crustoseLichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crustose lichen"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crustoseLichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichen encro\u00FBtant"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#crustoseLichen> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#lichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#FoliousLichen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#FoliousLichen> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#FoliousLichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Folious lichen"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#FoliousLichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichen foliac\u00E9"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#FoliousLichen> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#lichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#epilithicLichen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#epilithicLichen> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#epilithicLichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epilithic lichen"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#epilithicLichen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichen \u00E9pilithique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#epilithicLichen> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#lichen> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moss"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mousse"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/2004/02/skos/core#definition> "Vegetal organism forming small, soft and green cushions of centimetric size. Mosses look generally like dense micro-leaves (subto millimetric size) tightly packed together. Mosses often grow on stone surface open cavities, cracks, and in any place permanently or frequently wet (masonry joints), and usually shady."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#moss> <http://www.w3.org/2004/02/skos/core#definition> "Organisme v\u00C3\u00A9g\u00C3\u00A9tal en forme de coussinets verts souples au toucher, de taille centim\u00C3\u00A9trique. Les mousses ont l\u00E2\u0080\u0099apparence de petites feuilles (taille submillim\u00C3\u00A9trique \u00C3\u00A0 millim\u00C3\u00A9trique) assembl\u00C3\u00A9es en bouquets serr\u00C3\u00A9s. Les mousses se d\u00C3\u00A9veloppent dans des cavit\u00C3\u00A9s ouvertes, des fissures, des joints, toutes zones constamment ou souvent humides et/ou ombrag\u00C3\u00A9es"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mould"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moisissure"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#altLabel> "Fungi"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#altLabel> "Mold"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#definition> "Microscopic fungus which colonies, to the naked eye, look like a downy film or a network or star-like millimetric patches of filaments of diverse colours (white, grey, black)."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#mould> <http://www.w3.org/2004/02/skos/core#definition> "Une moisissure est un champignon microscopique. La croissance d\u00E2\u0080\u0099une moisissure peut atteindre des dimensions visibles \u00C3\u00A0 l\u00E2\u0080\u0099\u00C5\u0093il nu sous la forme d\u00E2\u0080\u0099une pellicule duveteuse de diverses couleurs (blanc, gris, noir surtout) ou de filaments croissant depuis un centre (de fa\u00C3\u00A7on centrip\u00C3\u00A8te) et formant ainsi un r\u00C3\u00A9seau de structures en \u00C3\u00A9toiles, ayant un diam\u00C3\u00A8tre de 2 \u00C3\u00A0 10 mm."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plante"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#altLabel> "Higher plant"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#altLabel> "vegetation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#altLabel> "V\u00E9g\u00E9tation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#definition> "Vegetal living being, having, when complete, root, stem, and leaves, though consisting sometimes only of a single leafy expansion (e.g. Tree, fern, herb)."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#plant> <http://www.w3.org/2004/02/skos/core#definition> "Etre vivant v\u00C3\u00A9g\u00C3\u00A9tal organis\u00C3\u00A9 diff\u00C3\u00A9renci\u00C3\u00A9 en racine(s), tige(s) et feuilles. Parfois cependant, la plante peut ne se r\u00C3\u00A9sumer qu\u00E2\u0080\u0099\u00C3\u00A0 une simple expansion foliaire (ex : Foug\u00C3\u00A8re, arbre, arbuste, herbe)."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#prefLabel> "General terms"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#prefLabel> "Termes g\u00E9n\u00E9raux"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#decay> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#degradation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#weathering> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#alteration> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> <http://www.w3.org/2004/02/skos/core#narrower> <http://leduc.gamsau.archi.fr/vocab/iscs#damage> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#decay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#decay> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#decay> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decay"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#decay> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#decay> <http://www.w3.org/2004/02/skos/core#definition> "Any chemical or physical modification of the intrinsic stone properties leading to a loss of value or to the impairment of use"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Degradation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/2004/02/skos/core#prefLabel> "D\u00E9gradation"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/2004/02/skos/core#definition> "Decline in condition, quality, or functional capacity."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#degradation> <http://www.w3.org/2004/02/skos/core#definition> "Toute modification chimique ou physique des propri\u00E9t\u00E9s intrins\u00E8ques de la pierre, conduisant \u00E0 une perte de valeur, de qualit\u00E9 ou \u00E0 une entrave \u00E0 son utilisation."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deterioration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> <http://www.w3.org/2004/02/skos/core#altLabel> "depreciation"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#deterioration> <http://www.w3.org/2004/02/skos/core#definition> "Process of making or becoming worse or lower in quality, value, character, etc.."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weathering"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alt\u00E9ration m\u00E9t\u00E9orique"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/2004/02/skos/core#definition> "Any chemical or mechanical process by which stones exposed to the weather undergo changes in character and deteriorate."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#weathering> <http://www.w3.org/2004/02/skos/core#definition> "Modification des propri\u00E9t\u00E9s physicochimiques de la pierre par les agents atmosph\u00E9riques naturels."@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alteration"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alt\u00E9ration"@fr .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid14 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#definition> "Modification of the material that does not necessary imply a worsening of its characteristics from the point of view of conservation. For instance, a reversible coating applied on a stone may be considered as an alteration."@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#alteration> <http://www.w3.org/2004/02/skos/core#definition> "Modification du mat\u00C3\u00A9riau n\u00E2\u0080\u0099impliquant pas n\u00C3\u00A9cessairement une d\u00C3\u00A9gradation de ses caract\u00C3\u00A9ristiques du point de vue de sa conservation. Par exemple, un rev\u00C3\u00AAtement r\u00C3\u00A9versible appliqu\u00C3\u00A9 sur une pierre peut \u00C3\u00AAtre consid\u00C3\u00A9r\u00C3\u00A9 comme une alt\u00C3\u00A9ration."@fr .
+_:genid14 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid14 <http://purl.org/dc/terms/modified> "2017-05-26T17:23:54+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#damage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#damage> <http://www.w3.org/2004/02/skos/core#inScheme> <http://leduc.gamsau.archi.fr/vocab/iscs#scheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#damage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Damage"@en .
+<http://leduc.gamsau.archi.fr/vocab/iscs#damage> <http://www.w3.org/2004/02/skos/core#broader> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#damage> <http://www.w3.org/2004/02/skos/core#changeNote> _:genid15 .
+<http://leduc.gamsau.archi.fr/vocab/iscs#damage> <http://www.w3.org/2004/02/skos/core#definition> "Human perception of the loss of value due to decay."@en .
+_:genid15 <http://purl.org/dc/terms/creator> "Nicola Carboni" .
+_:genid15 <http://purl.org/dc/terms/modified> "2017-05-26T18:05:51+00:00" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2000/01/rdf-schema#label> "Concept scheme for the ISCS glossary" .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://leduc.gamsau.archi.fr/vocab/iscs#bioColonization> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://leduc.gamsau.archi.fr/vocab/iscs#crackDeformation> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://leduc.gamsau.archi.fr/vocab/iscs#detachment> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://leduc.gamsau.archi.fr/vocab/iscs#discolorationDeposit> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://leduc.gamsau.archi.fr/vocab/iscs#featuresInducedMaterialLoss> .
+<http://leduc.gamsau.archi.fr/vocab/iscs#scheme> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <http://leduc.gamsau.archi.fr/vocab/iscs#generalTerms> .
